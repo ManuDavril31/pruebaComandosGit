@@ -1,1 +1,7 @@
 Aprendiendo a usar el programa de repositorio git
+Los comandos basicos de git
+git log
+git staud
+git add
+git commit -m
+git log --oneline --graph
